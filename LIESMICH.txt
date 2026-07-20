@@ -1,0 +1,25 @@
+Prüfprotokoll Elektroprüfung – Version 1.31.0
+© 2026 Robert Manuwald
+
+SO STARTEST DU DAS PROGRAMM (Windows, macOS, Linux):
+1) Diesen Ordner irgendwohin entpacken (z. B. auf den Desktop).
+2) Doppelklick auf "Prüfprotokoll Elektroprüfung.html".
+   Das Programm öffnet sich im Browser (Edge/Chrome/Firefox/Safari) und läuft
+   sofort – auch ohne Internet. Keine Installation nötig, auf jedem System.
+
+DATEN:
+- Alle Eingaben werden nur lokal in DEINEM Browser gespeichert.
+- Die Kundendatenbank ist bei Auslieferung leer.
+
+LIZENZ (wichtig):
+- Ohne Lizenzschlüssel läuft das Programm nur als Testversion: Ansehen und
+  Eingeben ist möglich, aber Drucken/PDF, Speichern und Export sind gesperrt.
+- Zum Freischalten oben auf "Lizenz & Updates" klicken und den erhaltenen
+  Lizenzschlüssel eintragen. Danach sind alle Funktionen verfügbar.
+
+UPDATES:
+- Im Programm auf "Lizenz & Updates" -> "Auf Updates prüfen".
+- Bei einer neuen Version oben auf "Update-Paket laden": das komplette ZIP
+  wird in den Download-Ordner geladen. Dann entpacken und die Dateien in
+  DIESEN Programm-Ordner kopieren und ersetzen. Wichtig: gleicher Ordner
+  -> deine gespeicherten Eingaben und Kunden bleiben erhalten.
