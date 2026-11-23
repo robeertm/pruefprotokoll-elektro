@@ -52,7 +52,7 @@ erscheint oben ein grünes Band **„⬇️ Update-Paket laden"** – es lädt d
 Danach entpacken und die Dateien in den bisherigen Programm-Ordner kopieren/ersetzen
 (gleicher Ordner → gespeicherte Eingaben bleiben erhalten).
 
-© 2026 Robert Manuwald · Version 1.33.0
+© 2026 Robert Manuwald · Version 1.33.1
 
 ---
 *Automatisch veröffentlichte Kundenversion. Dieses Repo enthält bewusst nur die

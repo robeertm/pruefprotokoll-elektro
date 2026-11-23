@@ -12,6 +12,11 @@ und hier ein Eintrag ergänzt.
 
 ---
 
+## [1.33.1] — 2026-11-23
+### Behoben
+- **Update-Band auf dem Handy:** Der Knopf „Hier tippen, um zu aktualisieren" wurde bei schmalen
+  Bildschirmen (z. B. 390 px) abgeschnitten und verbreiterte die Seite. Er bricht jetzt um.
+
 ## [1.33.0] — 2026-11-02
 ### Hinzugefügt
 - **Reiter „🏭 Ortsfeste", Stromkreis-Tabelle: Rechtsdrehfeld.** Jeder Stromkreis vom Typ
