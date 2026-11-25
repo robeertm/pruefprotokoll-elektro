@@ -12,6 +12,11 @@ und hier ein Eintrag ergänzt.
 
 ---
 
+## [1.33.2] — 2026-11-25
+### Behoben
+- **Handy (iPhone/Safari):** In den Reitern „Ortsfeste EX“ und „Ortsfeste“ waren Eingabefelder kleiner als 16 px;
+  Safari zoomte beim Antippen die Seite heran. Die Felder haben jetzt 16 px (die Stromkreis-Tabelle bleibt kompakt).
+
 ## [1.33.1] — 2026-11-23
 ### Behoben
 - **Update-Band auf dem Handy:** Der Knopf „Hier tippen, um zu aktualisieren" wurde bei schmalen

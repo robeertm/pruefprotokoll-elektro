@@ -384,6 +384,9 @@
     .savebar{position:static}
     .savebar .wrap{gap:6px}
     .savebar .btn{padding:8px 10px;font-size:.85rem}
+    /* iOS zoomt beim Antippen von Feldern unter 16 px: Eingaben der Anlagen-Reiter auf 16 px (Tabelle der Stromkreise bleibt kompakt) */
+    #tab-anlage input:not([type=checkbox]):not([type=radio]),#tab-anlageN select,#tab-anlageN input:not([type=checkbox]):not([type=radio]){font-size:16px}
+    #tab-anlageN table.e6sk input,#tab-anlageN table.e6sk select{font-size:inherit}
     header.app{padding:12px 12px;gap:10px}
     header.app h1{font-size:1.02rem}
     header.app p{font-size:.78rem}
@@ -797,7 +800,7 @@ const ANKEY = IS_KUNDENVERSION ? "pruef_anlage_normal_kunde_v1": "pruef_anlage_n
 const ASKEY = IS_KUNDENVERSION ? "pruef_anlagenstamm_kunde_v1": "pruef_anlagenstamm_v1"; // Anlagen-Stamm (Standorte + Koordinaten)
 
 // Programm-Version & Urheber (zentral – wird in Kopf, Fuß, Hilfe und Druck angezeigt)
-const APP_VERSION = "1.33.1";
+const APP_VERSION = "1.33.2";
 const APP_DATE    = "2026-11-23";
 const APP_COPYRIGHT = "© 2026 Robert Manuwald";
 
